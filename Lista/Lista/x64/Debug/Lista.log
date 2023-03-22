@@ -1,0 +1,16 @@
+﻿  Lista.cpp
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.h(7,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.h(14,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  wektor.cpp
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.h(7,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.h(14,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(6,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(20,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(32,25): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(41,14): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(48,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(66,12): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(73,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kosuk\Desktop\private-SCI_INF\Lista\Lista\wektor.cpp(90,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Lista.vcxproj -> C:\Users\kosuk\Desktop\private-SCI_INF\Lista\x64\Debug\Lista.exe
